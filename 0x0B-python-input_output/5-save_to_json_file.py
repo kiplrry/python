@@ -2,6 +2,7 @@
 """Append to file"""
 import json
 
+
 def save_to_json_file(my_obj, filename):
     """save JSON from an Object to a file
     Args:
