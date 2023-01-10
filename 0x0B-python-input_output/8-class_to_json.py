@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-"""function that creates an Object from a “JSON file”"""
-import json
+"""dictionary representation of a simple data structure”"""
+
 
 
 def class_to_json(obj):
