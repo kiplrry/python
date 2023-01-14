@@ -10,5 +10,5 @@ if __name__ == "__main__":
         print(f"{len(sys.argv) - 1} arguments:")
     for i in sys.argv:
         if num > 0:
-            print(f"{num} : {i}")
+            print(f"{num}: {i}")
         num += 1
